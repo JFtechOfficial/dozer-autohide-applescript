@@ -1,8 +1,8 @@
 # Dozer Autohide
-Add autohide funtion to Dozer (by [Mortennn]((https://github.com/Mortennn/Dozer)).
+Add autohide funtion to Dozer (by [Mortennn](https://github.com/Mortennn/Dozer)).
 
 # How To
-Use applescript to run dozer after starup and sen ket code to hide the menu items.
+Use applescript to run dozer after starup and send key code to hide the menu items.
 
 1. Download and install Dozer.
 
