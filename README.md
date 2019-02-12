@@ -14,7 +14,7 @@ tell application "System Events" to key code 43 using {control down}
 ```
 
 You need to replace (43 using {control down}) with your shortcut, and should setup this shortcut in Dozer in order to work.
-[Complete list of AppleScript key codes])https://eastmanreference.com/complete-list-of-applescript-key-codes)
+[Complete list of AppleScript key codes](https://eastmanreference.com/complete-list-of-applescript-key-codes)
 
 You may encounter a system warning says that "Script Editor is not allow to send key code", you need to go to `System Preference > Security & Privacy > Privacy tab > Accessibility` and check script editor.
 
